@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" alt="Clash" width="200">
+  <img src="https://github.com/robertdelacy/cattery-booking-system/Chichester Cattery Logo.jpg" alt="Chichester Cattery" width="200">
   <br>
   # Cattery Booking System
   <br>
