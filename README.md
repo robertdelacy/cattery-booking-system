@@ -12,8 +12,7 @@
 - Registration System for Families and their Cats
 - Booking System to add bookings for stays at the Cattery
 - 'Potential Changes' looks for any moving of bookings that would improve the efficiency of future chalet allocations.
-- Ability to back up the system as a digital backup for restoring or a printable document.
-- Support for Netfilter TCP redirect
+- Ability to back up the system as a digital backup for restoring or a printable document
 
 ## Install
 
@@ -24,7 +23,7 @@ The System uses a MySQL database.
 You can build from a clone:
 
 ```sh
-go get -u -v github.com/Dreamacro/clash
+git clone https://github.com/robertdelacy/cattery-booking-system
 ```
 
 ## Config
