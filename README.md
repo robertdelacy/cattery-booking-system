@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/robertdelacy/cattery-booking-system/raw/master/Chichester Cattery Logo.jpg" alt="Chichester Cattery" width="200">
+  <img src="https://github.com/robertdelacy/cattery-booking-system/raw/master/Chichester Cattery Logo.jpg" alt="Chichester Cattery" width="500">
   <br>
-  # Cattery Booking System
+  Cattery Booking System
   <br>
 </h1>
 
