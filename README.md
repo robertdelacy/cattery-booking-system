@@ -18,7 +18,7 @@
 
 The System uses a MySQL database.
 
-- Install and setup [MySQL](https://dev.mysql.com/downloads/windows/installer/8.0)
+- Install and setup [MySQL](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 - Open and run 'Chichester Cattery Booking Database Set-up' in MySQL Workbench
 
 You can build from a clone:
