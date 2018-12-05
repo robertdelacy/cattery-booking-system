@@ -20,6 +20,7 @@ The System uses a MySQL database.
 
 - Install and setup MySQL
 - Open and run 'Chichester Cattery Booking Database Set-up' in MySQL Workbench
+
 You can build from a clone:
 
 ```sh
