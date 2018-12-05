@@ -27,6 +27,8 @@ You can build from a clone:
 git clone https://github.com/robertdelacy/cattery-booking-system
 ```
 
+Once built, a binary for the system will appear at `Solution/bin/debug/Chichester Cattery Booking System`.
+
 ## Config
 
 Before using the system, the connection settings need to be set up. The Data Source, Port and Username can be found on the MySQL Workbench
