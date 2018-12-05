@@ -28,3 +28,12 @@ git clone https://github.com/robertdelacy/cattery-booking-system
 ```
 
 ## Config
+
+Before using the system, the connection settings need to be set up. The Data Source, Port and Username can be found on the MySQL Workbench
+and the password was given during the MySQL setup.
+
+The Chalets also need to be set up. Set the number of Chalets, then move the Chalets to their correct type:
+
+- Normal: 2 Cats
+- Family: 4 Cats
+- Large Family: 6 Cats
